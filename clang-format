@@ -4,7 +4,7 @@ Language:        Cpp
 AccessModifierOffset: -4
 ConstructorInitializerIndentWidth: 4
 AlignEscapedNewlinesLeft: false
-AlignTrailingComments: false
+AlignTrailingComments: true
 AllowAllParametersOfDeclarationOnNextLine: true
 AllowShortBlocksOnASingleLine: false
 AllowShortCaseLabelsOnASingleLine: false
@@ -44,7 +44,7 @@ Standard:        Cpp11
 IndentWidth:     4
 TabWidth:        4
 UseTab:          Always
-BreakBeforeBraces: Stroustrup
+BreakBeforeBraces: Attach
 SpacesInParentheses: false
 SpacesInSquareBrackets: false
 SpacesInAngles:  false
