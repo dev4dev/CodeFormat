@@ -44,7 +44,7 @@ Standard:        Cpp11
 IndentWidth:     4
 TabWidth:        4
 UseTab:          Always
-BreakBeforeBraces: Stroustrup
+BreakBeforeBraces: Linux
 SpacesInParentheses: false
 SpacesInSquareBrackets: false
 SpacesInAngles:  false
